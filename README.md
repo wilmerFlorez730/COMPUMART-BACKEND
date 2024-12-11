@@ -22,8 +22,8 @@ Este proyecto es un backend desarrollado en Node.js para gestionar las operacion
   
   **Contenido:**
   - **`Scripts📂 `**: Script para crear la base de datos.
-  - **`normalizacion.xsl`**: Definición de la normalización aplicada.
-  - **`diccionario.xsl`**: Diccionario de datos con descripción de tablas, campos y relaciones.
+  - **`normalizacion.xlsx`**: Definición de la normalización aplicada.
+  - **`diccionario.xlsx`**: Diccionario de datos con descripción de tablas, campos y relaciones.
 
 #### **routers/**
 - **Propósito:** Contiene los archivos para gestionar las APIs.

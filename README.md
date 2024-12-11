@@ -68,7 +68,7 @@ DB_HOST=localhost
 DB_PORT=3306
 DB_NAME=compumart
 DB_USER=root
-DB_PASSWORD=tu_contraseña
+DB_PASSWORD=password
 APP_ENV=development
 PORT=3000
 ```
@@ -92,4 +92,4 @@ El servidor se ejecutará en `http://localhost:3000` (o el puerto especificado e
 
 --- 
 
-¡Gracias por explorar el backend de Compumart! 🌟
+Gracias por explorar el backend de Compumart 🌟

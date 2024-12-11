@@ -1,4 +1,4 @@
-### README - Backend para Compumart 🛒
+
 
 **🚀 Proyecto:** Backend para Tienda Online - *Compumart*  
 **Desarrollador:** Equipo de Desarrollo de CompuMart  
